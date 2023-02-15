@@ -44,7 +44,6 @@
       {
         "external-id-type": "doi",
         "external-id-value": "10.1187/20110404",
-        "external-id-normalized-error": null,
         "external-id-url": {
           "value": "https://doi.org/10.1187/20110404"
         },
@@ -69,7 +68,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "first",
-          "contributor-role": "http://credit.niso.org/contributor-roles/writing-review-editing/"
+          "contributor-role": "author"
         }
       },
       {
@@ -84,7 +83,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/writing-original-draft/"
+          "contributor-role": "author"
         }
       },
       {
@@ -99,7 +98,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/visualization/"
+          "contributor-role": "assignee"
         }
       },
       {
@@ -114,7 +113,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/validation/"
+          "contributor-role": "co-inventor"
         }
       },
       {
@@ -129,7 +128,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/supervision/"
+          "contributor-role": "co-investigator"
         }
       },
       {
@@ -144,7 +143,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/software/"
+          "contributor-role": "chair-or-translator"
         }
       },
       {
@@ -159,7 +158,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/resources/"
+          "contributor-role": "editor"
         }
       },
       {
@@ -174,7 +173,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/project-administration/"
+          "contributor-role": "graduate-student"
         }
       },
       {
@@ -189,7 +188,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/methodology/"
+          "contributor-role": "principal-investigator"
         }
       },
       {
@@ -204,7 +203,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/investigation/"
+          "contributor-role": "postdoctoral-researcher"
         }
       },
       {
@@ -219,7 +218,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/funding-acquisition/"
+          "contributor-role": "support-staff"
         }
       },
       {
@@ -234,7 +233,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/formal-analysis/"
+          "contributor-role": "support-staff"
         }
       },
       {
@@ -249,7 +248,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/data-curation/"
+          "contributor-role": "support-staff"
         }
       },
       {
@@ -264,7 +263,7 @@
         "contributor-email": null,
         "contributor-attributes": {
           "contributor-sequence": "additional",
-          "contributor-role": "http://credit.niso.org/contributor-roles/conceptualization/"
+          "contributor-role": "support-staff"
         }
       },
       {
